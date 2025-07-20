@@ -22,20 +22,20 @@ Includes Zsh, Oh My Zsh, Powerlevel10k, and modern CLI tools to create a clean, 
 
 ### macOS
 ```bash
-chmod +x setup-mac.sh
-./setup-mac.sh
+chmod +x setup.sh
+./setup.sh
 ```
 
 ### Linux (Ubuntu/Debian)
 ```bash
-chmod +x setup-linux.sh
-./setup-linux.sh
+chmod +x setup.sh
+./setup.sh
 ```
 
 ### Windows (WSL2 with Ubuntu)
 ```bash
-chmod +x setup-windows.sh
-./setup-windows.sh
+chmod +x setup.sh
+./setup.sh
 ```
 
 ---
@@ -46,14 +46,6 @@ chmod +x setup-windows.sh
 
 ---
 
-## 📁 Repository Structure
-```
-📁 terminal-setup/
-├── setup-mac.sh
-├── setup-linux.sh
-├── setup-windows.sh
-└── README.md
-```
 
 ---
 
